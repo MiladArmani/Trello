@@ -1,0 +1,28 @@
+# Core Django framework
+Django==5.0.3               # Web framework for building the project
+
+# Django REST Framework
+djangorestframework==3.15.1 # Toolkit for building Web APIs
+
+# Authentication
+djangorestframework-simplejwt==5.3.1   # JWT authentication support
+
+# Database (PostgreSQL)
+psycopg2-binary==2.9.9      # PostgreSQL database adapter for Python
+
+# API Documentation
+drf-spectacular==0.27.2     # OpenAPI 3 schema generator
+drf-spectacular-sidecar==2024.4.1  # Swagger & Redoc UI integration
+
+# Docker (optional, for local dev convenience)
+gunicorn==21.2.0            # Production WSGI server
+
+# Environment variables
+python-decouple==3.8        # For loading secrets from .env
+
+# Testing
+pytest==8.1.1               # Testing framework
+pytest-django==4.8.0        # Pytest plugin for Django
+
+# Extra (Optional utilities)
+django-filter==24.2         # Advanced filtering support in APIs

@@ -1,0 +1,5 @@
+POSTGRES_DB=trello_db
+POSTGRES_USER=trello_user
+POSTGRES_PASSWORD=trello_pass
+POSTGRES_HOST=localhost
+POSTGRES_PORT=5432

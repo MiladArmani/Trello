@@ -1,0 +1,75 @@
+(Entities):
+
+1. User (Account)
+
+. username
+
+. email
+
+. password
+
+. first_name
+
+. last_name
+
+2. Workspace
+
+. name
+
+. description
+
+. owner (FK → User)
+
+3. WorkspaceMember
+
+. workspace (FK → Workspace)
+
+. user (FK → User)
+
+. role (Owner, Admin, Member)
+
+4. Board
+
+. title
+
+. workspace (FK → Workspace)
+
+. created_at
+
+5. Task
+
+. title
+
+. description
+
+. start_date
+
+. due_date
+
+. status (To Do, Doing, Done, Suspend)
+
+. assignee (FK → User, nullable)
+
+. board (FK → Board)
+
+6. Label
+
+. name
+
+. color
+
+. board (FK → Board)
+
+7. TaskLabel (Many-to-Many)
+
+. task (FK → Task)
+
+. label (FK → Label)
+
+
+(Relationships) :
+
+. User (1) ------ (M) WorkspaceMember (M) ------ (1) Workspace
+. Workspace (1) ------ (M) Board
+. Board (1) ------ (M) Task
+. Task (M) ------ (M) Label

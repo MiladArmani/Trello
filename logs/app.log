@@ -1,0 +1,59 @@
+INFO 2025-08-21 20:12:38,999 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 20:13:33,747 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\Trello\settings.py changed, reloading.
+INFO 2025-08-21 20:13:46,987 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-21 20:14:10,710 log Unauthorized: /api/boards/1/2/reports/
+WARNING 2025-08-21 20:14:10,710 basehttp "GET /api/boards/1/2/reports/ HTTP/1.1" 401 183
+WARNING 2025-08-21 20:14:23,507 log Unauthorized: /api/boards/1/2/reports/
+WARNING 2025-08-21 20:14:23,507 basehttp "GET /api/boards/1/2/reports/ HTTP/1.1" 401 183
+INFO 2025-08-21 20:14:45,216 basehttp "POST /api/accounts/login/ HTTP/1.1" 200 483
+INFO 2025-08-21 20:16:43,663 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\boards\views.py changed, reloading.
+INFO 2025-08-21 20:16:44,180 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 20:17:23,138 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\boards\views.py changed, reloading.
+INFO 2025-08-21 20:17:23,676 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 20:18:00,523 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\boards\views.py changed, reloading.
+INFO 2025-08-21 20:18:01,031 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 20:18:22,247 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\boards\views.py changed, reloading.
+INFO 2025-08-21 20:18:22,770 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 20:18:37,763 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\boards\views.py changed, reloading.
+INFO 2025-08-21 20:18:38,305 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 20:18:40,786 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\boards\views.py changed, reloading.
+INFO 2025-08-21 20:18:41,296 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 20:18:47,932 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\boards\views.py changed, reloading.
+INFO 2025-08-21 20:18:48,443 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 20:18:50,909 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\boards\views.py changed, reloading.
+INFO 2025-08-21 20:18:51,433 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 20:19:08,512 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\boards\views.py changed, reloading.
+INFO 2025-08-21 20:19:09,033 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 20:19:44,838 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\boards\views.py changed, reloading.
+INFO 2025-08-21 20:19:45,344 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 20:19:53,066 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\boards\views.py changed, reloading.
+INFO 2025-08-21 20:19:53,583 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 20:20:12,626 basehttp "POST /api/accounts/login/ HTTP/1.1" 200 483
+INFO 2025-08-21 20:22:28,769 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 20:23:02,463 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\Trello\settings.py changed, reloading.
+INFO 2025-08-21 20:23:03,051 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 20:23:33,602 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\Trello\settings.py changed, reloading.
+INFO 2025-08-21 20:23:34,200 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 20:23:35,645 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\Trello\settings.py changed, reloading.
+INFO 2025-08-21 20:23:36,219 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 20:24:08,906 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\Trello\urls.py changed, reloading.
+INFO 2025-08-21 20:24:09,409 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 20:24:39,053 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\Trello\urls.py changed, reloading.
+INFO 2025-08-21 20:24:39,604 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 20:25:11,276 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\Trello\urls.py changed, reloading.
+INFO 2025-08-21 20:25:11,815 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 20:25:13,302 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\Trello\urls.py changed, reloading.
+INFO 2025-08-21 20:25:13,828 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 20:25:18,438 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\Trello\urls.py changed, reloading.
+INFO 2025-08-21 20:25:18,983 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 20:25:20,468 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\Trello\urls.py changed, reloading.
+INFO 2025-08-21 20:25:21,029 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 20:25:28,760 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\Trello\urls.py changed, reloading.
+INFO 2025-08-21 20:25:29,328 autoreload Watching for file changes with StatReloader
+WARNING 2025-08-21 20:26:06,962 log Not Found: /
+WARNING 2025-08-21 20:26:06,963 basehttp "GET / HTTP/1.1" 404 2896
+INFO 2025-08-21 20:26:15,022 basehttp "GET /api/schema/ HTTP/1.1" 200 38651
+INFO 2025-08-21 21:24:18,673 autoreload Watching for file changes with StatReloader
+INFO 2025-08-21 22:23:40,185 autoreload C:\Users\MiladArmani\Desktop\Project\Trello\Trello\settings.py changed, reloading.
+INFO 2025-08-21 22:23:40,774 autoreload Watching for file changes with StatReloader
+INFO 2025-08-22 00:11:49,794 views Workspace 'Team A' created by ali
